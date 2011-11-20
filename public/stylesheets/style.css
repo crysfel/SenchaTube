@@ -1,0 +1,11 @@
+.video{
+	overflow:auto;
+}
+.video img{
+	float:left;
+	margin-right:10px;
+}
+.video strong{
+	font-weight:bold;
+	font-size:1em;
+}
